@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mycompany.csgonades">
+
+    <!-- Include required permissions for Google Mobile Ads to run -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/appicon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme">
+
+        <!-- This meta-data tag is required to use Google Play Services. -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Dust2"
+            android:label="@string/title_activity_dust2"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Train"
+            android:label="@string/title_activity_train"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Nuke"
+            android:label="@string/title_activity_nuke"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Mirage"
+            android:label="@string/title_activity_mirage"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Cache"
+            android:label="@string/title_activity_cache"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Overpass"
+            android:label="@string/title_activity_overpass"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Cobblestone"
+            android:label="@string/title_activity_cobblestone"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Inferno"
+            android:label="@string/title_activity_inferno"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.MainActivity" />
+        </activity>
+        <activity
+            android:name=".D2smoke"
+            android:label="@string/title_activity_d2smoke"
+            android:parentActivityName=".Dust2"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Dust2" />
+        </activity>
+        <activity
+            android:name=".MirageSmoke"
+            android:label="@string/title_activity_mirage_smoke"
+            android:parentActivityName=".Mirage"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Mirage" />
+        </activity>
+        <activity
+            android:name=".CobblestoneNades"
+            android:label="@string/title_activity_cobblestone_nades"
+            android:parentActivityName=".Cobblestone"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Cobblestone" />
+        </activity>
+        <activity
+            android:name=".CacheNades"
+            android:label="@string/title_activity_cache_nades"
+            android:parentActivityName=".Cache"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Cache" />
+        </activity>
+        <activity
+            android:name=".NukeNades"
+            android:label="@string/title_activity_nuke_nades"
+            android:parentActivityName=".Nuke"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Nuke" />
+        </activity>
+        <activity
+            android:name=".OverpassNades"
+            android:label="@string/title_activity_overpass_nades"
+            android:parentActivityName=".Overpass"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Overpass" />
+        </activity>
+        <activity
+            android:name=".TrainNades"
+            android:label="@string/title_activity_train_nades"
+            android:parentActivityName=".Train"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Train" />
+        </activity>
+        <!-- Include the AdActivity configChanges and theme. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name=".Settings"
+            android:label="@string/title_activity_settings"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.MainActivity" />
+            >
+        </activity>
+        <activity
+            android:name=".FullscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_overpass_nades"
+            android:parentActivityName=".Overpass"
+            android:theme="@style/FullscreenTheme"
+            android:screenOrientation="landscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Overpass" />
+            >
+        </activity>
+        <activity
+            android:name=".FullscreenCacheNades"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_cache_nades"
+            android:parentActivityName=".Cache"
+            android:theme="@style/FullscreenTheme"
+            android:screenOrientation="landscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Cache" />
+            >
+        </activity>
+        <activity
+            android:name=".FullscreenCobblestoneNades"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_cobblestone_nades"
+            android:parentActivityName=".Cobblestone"
+            android:theme="@style/FullscreenTheme"
+            android:screenOrientation="landscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Cobblestone" />
+        </activity>
+        <activity
+            android:name=".FullscreenDust2Nades"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_d2smoke"
+            android:parentActivityName=".Dust2"
+            android:theme="@style/FullscreenTheme"
+            android:screenOrientation="landscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Dust2" />
+        </activity>
+        <activity
+            android:name=".FullscreenInfernoNades"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_inferno_nades"
+            android:parentActivityName=".Inferno"
+            android:theme="@style/FullscreenTheme"
+            android:screenOrientation="landscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Inferno" />
+        </activity>
+        <activity
+            android:name=".FullscreenMirageNades"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_mirage_smoke"
+            android:parentActivityName=".Mirage"
+            android:theme="@style/FullscreenTheme"
+            android:screenOrientation="landscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Mirage" />
+        </activity>
+        <activity
+            android:name=".FullscreenNukeNades"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_nuke_nades"
+            android:parentActivityName=".Nuke"
+            android:theme="@style/FullscreenTheme"
+            android:screenOrientation="landscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Nuke" />
+        </activity>
+        <activity
+            android:name=".FullscreenTrainNades"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_train_nades"
+            android:parentActivityName=".Train"
+            android:theme="@style/FullscreenTheme"
+            android:screenOrientation="landscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.mycompany.csgonades.Train" />
+        </activity>
+    </application>
+
+</manifest>

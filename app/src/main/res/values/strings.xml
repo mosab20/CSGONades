@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">CS:GO Smokes</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dust2">Dust2</string>
+    <string name="title_activity_train">Train</string>
+    <string name="title_activity_nuke">Nuke</string>
+    <string name="title_activity_mirage">Mirage</string>
+    <string name="title_activity_cache">Cache</string>
+    <string name="title_activity_overpass">Overpass</string>
+    <string name="title_activity_cobblestone">Cobblestone</string>
+    <string name="title_activity_inferno">Inferno</string>
+    <string name="title_activity_d2smoke">Dust_2 Smoke</string>
+    <string name="title_activity_inferno_nades">Inferno Smoke</string>
+    <string name="title_activity_mirage_smoke">Mirage Smoke</string>
+    <string name="title_activity_cobblestone_nades">Cobblestone Smoke</string>
+    <string name="title_activity_cache_nades">Cache Smoke</string>
+    <string name="title_activity_nuke_nades">Nuke Smoke</string>
+    <string name="title_activity_overpass_nades">Overpass Smoke</string>
+    <string name="title_activity_train_nades">Train Smoke</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6033901903111612/9735297683</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_fullscreen_cache_nades">FullscreenCacheNades</string>
+
+    <string name="title_activity_fullscreen_cobblestone_nades">FullscreenCobblestoneNades</string>
+
+    <string name="title_activity_fullscreen_dust2_nades">FullscreenDust2Nades</string>
+
+    <string name="title_activity_fullscreen_inferno_nades">FullscreenInfernoNades</string>
+
+    <string name="title_activity_fullscreen_mirage_nades">FullscreenMirageNades</string>
+
+    <string name="title_activity_fullscreen_nuke_nades">FullscreenNukeNades</string>
+
+    <string name="title_activity_fullscreen_train_nades">FullscreenTrainNades</string>
+</resources>
