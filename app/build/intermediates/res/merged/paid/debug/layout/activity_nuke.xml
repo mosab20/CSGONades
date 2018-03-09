@@ -1,0 +1,196 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mycompany.csgonades.Nuke"
+    android:background="@drawable/nadesback"
+    android:padding="16dp">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:fillViewport="false"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentRight="false"
+        android:layout_marginBottom="60dp">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Smokes"
+                android:id="@+id/textView"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:textStyle="bold"
+                android:textSize="30dp"
+                android:layout_gravity="center_horizontal" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="9"
+                android:orientation="horizontal"
+                android:layout_below="@id/textView">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="4"
+                android:id="@+id/tside"
+                android:orientation="vertical"
+                >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Terrorist"
+                android:id="@+id/textView2"
+
+                android:layout_gravity="center_horizontal"
+                android:layout_above="@+id/msmoke11"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="75dp"
+                    android:text="from t blue box to secret"
+                    android:id="@+id/msmoke8"
+                    android:layout_gravity="center_horizontal"
+                    android:onClick="smoke4"
+                    android:layout_below="@+id/msmoke9"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="75dp"
+                    android:text="from t fence to garage"
+                    android:id="@+id/msmoke9"
+                    android:layout_gravity="center_horizontal"
+                    android:onClick="smoke3"
+                    android:layout_below="@+id/msmoke10"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="75dp"
+                    android:text="from t roof to heaven without glass"
+                    android:id="@+id/msmoke10"
+                    android:layout_gravity="center_horizontal"
+                    android:onClick="smoke2"
+                    android:layout_below="@+id/msmoke11"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="75dp"
+                    android:text="from t roof to heaven with glass"
+                    android:id="@+id/msmoke11"
+                    android:layout_gravity="center_horizontal"
+                    android:onClick="smoke1"
+                    android:layout_below="@+id/textView3"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="75dp"
+                    android:text="from vending to ramp"
+                    android:id="@+id/smoke5"
+                    android:onClick="smoke5"
+                    android:layout_below="@+id/msmoke8"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_gravity="center_horizontal"/>
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="75dp"
+                    android:text="from t roof to on top of A silos with broken glass"
+                    android:id="@+id/smoke6"
+                    android:onClick="smoke8"
+                    android:layout_below="@+id/smoke5"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_gravity="center_horizontal"/>
+                <Button
+                    android:layout_width="fill_parent"
+                    android:layout_height="75dp"
+                    android:text="from t fence to catwalk corner"
+                    android:id="@+id/smoke7"
+                    android:onClick="smoke9"
+                    android:layout_below="@+id/smoke6"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_gravity="center_horizontal"/>
+</LinearLayout>
+            <android.support.v4.widget.Space
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="4"
+                android:id="@+id/ctside"
+                android:layout_toRightOf="@id/tside"
+                android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="CT Side"
+                android:id="@+id/textView3"
+
+                android:layout_below="@+id/textView"
+                android:layout_alignLeft="@+id/msmoke4"
+                android:layout_alignStart="@+id/msmoke4"
+                android:layout_gravity="center_horizontal" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="75dp"
+                android:text="from ct to t side outside"
+                android:id="@+id/msmoke2"
+
+                android:onClick="smoke7"
+                android:layout_gravity="center_horizontal"
+                android:layout_below="@+id/msmoke4"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="75dp"
+                android:text="from ramp to vending"
+                android:id="@+id/msmoke4"
+                android:layout_gravity="center_horizontal"
+                android:onClick="smoke6"
+                android:layout_below="@+id/textView3"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+</LinearLayout>
+
+</LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-6033901903111612/6722955683">
+    </com.google.android.gms.ads.AdView>
+</RelativeLayout>

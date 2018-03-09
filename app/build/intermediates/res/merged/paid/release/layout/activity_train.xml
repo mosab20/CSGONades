@@ -1,0 +1,188 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.mycompany.csgonades.Train"
+    android:background="@drawable/nadesback"
+    android:padding="16dp">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:fillViewport="false"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentRight="false"
+        android:layout_marginBottom="60dp">
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+        >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Smokes"
+                android:id="@+id/textView"
+                android:textStyle="bold"
+                android:textSize="30dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="9"
+                android:orientation="horizontal"
+                android:layout_below="@id/textView">
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="4"
+                    android:id="@+id/tside"
+                    android:orientation="vertical"
+                    >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="T Side"
+                android:id="@+id/textView2"
+
+                android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="75dp"
+                android:text="from upper ladder to right side of bomb train"
+                android:id="@+id/tsmoke5"
+
+                android:onClick="smoke1"
+
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="75dp"
+                android:text="from brown dumpster to left side of T train"
+                android:id="@+id/tsmoke4"
+
+                android:onClick="smoke2"
+
+                android:layout_below="@+id/tsmoke5"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="75dp"
+                android:text="from t spawn to between red and A3 trains"
+                android:id="@+id/tsmoke3"
+
+                android:onClick="smoke3"
+
+                android:layout_below="@+id/tsmoke4"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="75dp"
+                android:text="from brown dumpster to z connector"
+                android:id="@+id/tsmoke2"
+
+                android:onClick="smoke4"
+
+                android:layout_below="@+id/tsmoke3"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="75dp"
+                android:text="from boilers to z connector"
+                android:id="@+id/tsmoke1"
+
+
+                android:onClick="smoke5"
+                android:layout_below="@+id/tsmoke2"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+
+
+
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="75dp"
+                android:text="from boilers to upper b"
+                android:id="@+id/tsmoke6"
+                android:onClick="smoke6"
+                android:layout_below="@+id/tsmoke1"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="75dp"
+                android:text="from boilers to between bomb train and pop dog"
+                android:id="@+id/tsmoke7"
+                android:onClick="smoke7"
+                android:layout_below="@+id/tsmoke6"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="75dp"
+                android:text="from boilers to between blue and red train on a site"
+                android:id="@+id/tsmoke8"
+                android:onClick="smoke8"
+                android:layout_below="@+id/tsmoke7"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+            </LinearLayout>
+
+            <android.support.v4.widget.Space
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="4"
+                android:id="@+id/ctside"
+                android:layout_toRightOf="@id/tside"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="CT Side"
+                    android:id="@+id/textView3"
+                    android:layout_alignTop="@+id/textView2"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_gravity="center_horizontal"/>
+                </LinearLayout>
+</LinearLayout>
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-6033901903111612/5106621684">
+    </com.google.android.gms.ads.AdView>
+
+</RelativeLayout>

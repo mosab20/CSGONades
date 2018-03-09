@@ -1,0 +1,394 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:2:1-273:12
+	package
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\mosab\.android\build-cache\f0e98adaf28b95b45bafec7b220d7d11eaa4af8c\output\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\mosab\.android\build-cache\f0e98adaf28b95b45bafec7b220d7d11eaa4af8c\output\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:9:5-271:19
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\mosab\.android\build-cache\e2345df30a10f71a010df40c327826c6ee7523a0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\mosab\.android\build-cache\6faa5e7c219deebe95efc7e2b378aba6cee729c9\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\mosab\.android\build-cache\e5878e42fd135a4633f89cb3a05af13e95b56c04\output\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\mosab\.android\build-cache\f0e98adaf28b95b45bafec7b220d7d11eaa4af8c\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] C:\Users\mosab\.android\build-cache\b5fb30450c9a52d57cc227c06504f4ea1c0bf525\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\mosab\.android\build-cache\1390b0fdc0f35e45580a4ee1d66370c098abe3ba\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\mosab\.android\build-cache\f746c489130baf02c4ac0bedeb1df0286f9413eb\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] C:\Users\mosab\.android\build-cache\0770f1b73c2edda66571b1975c4a9eee7bfeaba0\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\mosab\.android\build-cache\815fb02bd5095f1c8eaca8627183639e46cec64a\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\mosab\.android\build-cache\ea86a69665d2504395bb7a86bfef189f4430e63f\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:11:9-41
+	android:largeHeap
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:13:9-33
+	android:theme
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:14:9-40
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:17:9-19:69
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\mosab\.android\build-cache\815fb02bd5095f1c8eaca8627183639e46cec64a\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:19:13-66
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:18:13-58
+activity#com.mycompany.csgonades.MainActivity
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.mycompany.csgonades.Dust2
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:31:9-39:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:33:13-57
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:34:13-55
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:32:13-34
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:36:13-38:72
+	android:value
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:37:17-63
+activity#com.mycompany.csgonades.Train
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:42:13-57
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:43:13-55
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:41:13-34
+activity#com.mycompany.csgonades.Nuke
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:49:9-57:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:51:13-56
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:52:13-55
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:50:13-33
+activity#com.mycompany.csgonades.Mirage
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:58:9-66:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:60:13-58
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:61:13-55
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:59:13-35
+activity#com.mycompany.csgonades.Cache
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:67:9-75:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:69:13-57
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:70:13-55
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:68:13-34
+activity#com.mycompany.csgonades.Overpass
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:76:9-84:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:80:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:78:13-60
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:79:13-55
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:77:13-37
+activity#com.mycompany.csgonades.Cobblestone
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:85:9-93:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:89:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:87:13-63
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:88:13-55
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:86:13-40
+activity#com.mycompany.csgonades.Inferno
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:94:9-102:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:98:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:96:13-59
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:97:13-55
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:95:13-36
+activity#com.mycompany.csgonades.D2smoke
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:103:9-111:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:107:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:105:13-59
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:106:13-48
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:104:13-36
+activity#com.mycompany.csgonades.MirageSmoke
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:112:9-120:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:116:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:114:13-64
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:115:13-49
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:113:13-40
+activity#com.mycompany.csgonades.CobblestoneNades
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:121:9-129:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:125:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:123:13-69
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:124:13-54
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:122:13-45
+activity#com.mycompany.csgonades.CacheNades
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:130:9-138:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:134:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:132:13-63
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:133:13-48
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:131:13-39
+activity#com.mycompany.csgonades.NukeNades
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:139:9-147:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:143:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:141:13-62
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:142:13-47
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:140:13-38
+activity#com.mycompany.csgonades.OverpassNades
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:148:9-156:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:152:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:150:13-66
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:151:13-51
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:149:13-42
+activity#com.mycompany.csgonades.TrainNades
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:157:9-165:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:161:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:159:13-63
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:160:13-48
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:158:13-39
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:167:9-170:64
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\mosab\.android\build-cache\f0e98adaf28b95b45bafec7b220d7d11eaa4af8c\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:169:13-122
+	android:theme
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:170:13-61
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:168:13-65
+activity#com.mycompany.csgonades.Settings
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:171:9-180:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:175:13-49
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:173:13-60
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:174:13-55
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:172:13-37
+activity#com.mycompany.csgonades.FullscreenActivity
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:181:9-192:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:187:13-50
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:184:13-66
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:185:13-51
+	android:configChanges
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:183:13-74
+	android:theme
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:186:13-51
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:182:13-47
+activity#com.mycompany.csgonades.FullscreenCacheNades
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:193:9-204:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:199:13-50
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:196:13-63
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:197:13-48
+	android:configChanges
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:195:13-74
+	android:theme
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:198:13-51
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:194:13-49
+activity#com.mycompany.csgonades.FullscreenCobblestoneNades
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:205:9-215:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:211:13-50
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:208:13-69
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:209:13-54
+	android:configChanges
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:207:13-74
+	android:theme
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:210:13-51
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:206:13-55
+activity#com.mycompany.csgonades.FullscreenDust2Nades
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:216:9-226:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:222:13-50
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:219:13-59
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:220:13-48
+	android:configChanges
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:218:13-74
+	android:theme
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:221:13-51
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:217:13-49
+activity#com.mycompany.csgonades.FullscreenInfernoNades
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:227:9-237:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:233:13-50
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:230:13-65
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:231:13-50
+	android:configChanges
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:229:13-74
+	android:theme
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:232:13-51
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:228:13-51
+activity#com.mycompany.csgonades.FullscreenMirageNades
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:238:9-248:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:244:13-50
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:241:13-64
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:242:13-49
+	android:configChanges
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:240:13-74
+	android:theme
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:243:13-51
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:239:13-50
+activity#com.mycompany.csgonades.FullscreenNukeNades
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:249:9-259:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:255:13-50
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:252:13-62
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:253:13-47
+	android:configChanges
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:251:13-74
+	android:theme
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:254:13-51
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:250:13-48
+activity#com.mycompany.csgonades.FullscreenTrainNades
+ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:260:9-270:20
+	android:screenOrientation
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:266:13-50
+	android:label
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:263:13-63
+	android:parentActivityName
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:264:13-48
+	android:configChanges
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:262:13-74
+	android:theme
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:265:13-51
+	android:name
+		ADDED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml:261:13-49
+uses-sdk
+INJECTED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.2.0] C:\Users\mosab\.android\build-cache\e2345df30a10f71a010df40c327826c6ee7523a0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.2.0] C:\Users\mosab\.android\build-cache\6faa5e7c219deebe95efc7e2b378aba6cee729c9\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.0] C:\Users\mosab\.android\build-cache\e5878e42fd135a4633f89cb3a05af13e95b56c04\output\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-ads:9.6.1] C:\Users\mosab\.android\build-cache\27584288649a0d69a33c4bf1e4837cfe7ba96989\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\mosab\.android\build-cache\f0e98adaf28b95b45bafec7b220d7d11eaa4af8c\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.1] C:\Users\mosab\.android\build-cache\b5fb30450c9a52d57cc227c06504f4ea1c0bf525\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\mosab\.android\build-cache\1390b0fdc0f35e45580a4ee1d66370c098abe3ba\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\mosab\.android\build-cache\f746c489130baf02c4ac0bedeb1df0286f9413eb\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.6.1] C:\Users\mosab\.android\build-cache\0770f1b73c2edda66571b1975c4a9eee7bfeaba0\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\mosab\.android\build-cache\815fb02bd5095f1c8eaca8627183639e46cec64a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\mosab\.android\build-cache\ea86a69665d2504395bb7a86bfef189f4430e63f\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.0] C:\Users\mosab\.android\build-cache\e2345df30a10f71a010df40c327826c6ee7523a0\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mosab\AndroidStudioProjects\CSGONades\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\mosab\.android\build-cache\f0e98adaf28b95b45bafec7b220d7d11eaa4af8c\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\mosab\.android\build-cache\f0e98adaf28b95b45bafec7b220d7d11eaa4af8c\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.1] C:\Users\mosab\.android\build-cache\f0e98adaf28b95b45bafec7b220d7d11eaa4af8c\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\mosab\.android\build-cache\1390b0fdc0f35e45580a4ee1d66370c098abe3ba\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\mosab\.android\build-cache\1390b0fdc0f35e45580a4ee1d66370c098abe3ba\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\mosab\.android\build-cache\1390b0fdc0f35e45580a4ee1d66370c098abe3ba\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\mosab\.android\build-cache\1390b0fdc0f35e45580a4ee1d66370c098abe3ba\output\AndroidManifest.xml:19:19-85

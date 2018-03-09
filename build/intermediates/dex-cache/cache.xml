@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\.android\build-cache\ea86a69665d2504395bb7a86bfef189f4430e63f\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\internal_impl-24.0.0_dfe040aed058b30077822f427c421ff17c8cf3e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\.android\build-cache\815fb02bd5095f1c8eaca8627183639e46cec64a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\classes_4a2c0f9e2cf91aed9b6d875149b1181093f51aa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\.android\build-cache\1390b0fdc0f35e45580a4ee1d66370c098abe3ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\classes_9251b60111b53ce3550d736f231daf71ee0d77e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\incremental-runtime-classes\paid\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10000\instant-run_6d7480c01e8494e024f531a58f2621c6cc2bbc70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\.android\build-cache\e5878e42fd135a4633f89cb3a05af13e95b56c04\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\classes_27011a72e3e804e20678b9cbf95dfe38201adf27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\.android\build-cache\ea86a69665d2504395bb7a86bfef189f4430e63f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\classes_000ff8f5feae13b17a156b6180a6d9fad6e9791c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\.android\build-cache\f746c489130baf02c4ac0bedeb1df0286f9413eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\classes_9c6641fd28f31a98f04c42976907ef19ad0fc132\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\.android\build-cache\b5fb30450c9a52d57cc227c06504f4ea1c0bf525\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\classes_1f259aaf91235eb45740b58665eeb93097744a7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\.android\build-cache\f0e98adaf28b95b45bafec7b220d7d11eaa4af8c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\classes_ccc349f8143346df1661676e74c6151222d6c0d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\.android\build-cache\0770f1b73c2edda66571b1975c4a9eee7bfeaba0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\classes_0ea652ed3aabbe5992edc7e09fc74a340b9f647b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\incremental-classes\paid\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e90faa1a7b6ed074fd3126bd4bc42dd4d57077c">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10000\instant-run-bootstrap_a07a7014312cb42f7e0dede2c38377447701eff5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\.android\build-cache\27584288649a0d69a33c4bf1e4837cfe7ba96989\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\classes_33cea63b22b6724868e92903b4f364f2da0b2427\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\.android\build-cache\e2345df30a10f71a010df40c327826c6ee7523a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\classes_caa14d618ed5e50d966991c388177aea166e40cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\support-annotations-24.0.0_dd5b88119ad7f7708fc93d9a969e056622d0c085\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mosab\.android\build-cache\6faa5e7c219deebe95efc7e2b378aba6cee729c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\mosab\AndroidStudioProjects\CSGONades\app\build\intermediates\transforms\dex\paid\debug\folders\1000\10\classes_881947bdadfd120407fed74205aad2bf2e863fec\classes.dex" />
+    </item>
+
+</items>

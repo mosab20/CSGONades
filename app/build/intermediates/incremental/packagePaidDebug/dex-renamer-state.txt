@@ -1,0 +1,7 @@
+#Thu Mar 08 22:22:28 EST 2018
+base.0=C\:\\Users\\mosab\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\transforms\\dex\\paid\\debug\\folders\\1000\\10000\\instant-run_6d7480c01e8494e024f531a58f2621c6cc2bbc70
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\mosab\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\transforms\\dex\\paid\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a07a7014312cb42f7e0dede2c38377447701eff5\\classes.dex
+base.1=C\:\\Users\\mosab\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\transforms\\dex\\paid\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a07a7014312cb42f7e0dede2c38377447701eff5
+file.0=C\:\\Users\\mosab\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\transforms\\dex\\paid\\debug\\folders\\1000\\10000\\instant-run_6d7480c01e8494e024f531a58f2621c6cc2bbc70\\classes.dex

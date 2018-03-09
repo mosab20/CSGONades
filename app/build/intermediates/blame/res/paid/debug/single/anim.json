@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\Mosab Tohmaz\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Mosab Tohmaz\\.android\\build-cache\\ad7577a43102a1f1c9feca9dfa95cfbdbdbff3d0\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mosab Tohmaz\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Mosab Tohmaz\\.android\\build-cache\\ad7577a43102a1f1c9feca9dfa95cfbdbdbff3d0\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosab\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\mosab\\.android\\build-cache\\e2345df30a10f71a010df40c327826c6ee7523a0\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosab\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\mosab\\.android\\build-cache\\e2345df30a10f71a010df40c327826c6ee7523a0\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mosab Tohmaz\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Mosab Tohmaz\\.android\\build-cache\\ad7577a43102a1f1c9feca9dfa95cfbdbdbff3d0\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mosab Tohmaz\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Mosab Tohmaz\\.android\\build-cache\\ad7577a43102a1f1c9feca9dfa95cfbdbdbff3d0\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosab\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\mosab\\.android\\build-cache\\e2345df30a10f71a010df40c327826c6ee7523a0\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mosab Tohmaz\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Mosab Tohmaz\\.android\\build-cache\\ad7577a43102a1f1c9feca9dfa95cfbdbdbff3d0\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosab\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\mosab\\.android\\build-cache\\e2345df30a10f71a010df40c327826c6ee7523a0\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosab\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\mosab\\.android\\build-cache\\e2345df30a10f71a010df40c327826c6ee7523a0\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mosab Tohmaz\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Mosab Tohmaz\\.android\\build-cache\\ad7577a43102a1f1c9feca9dfa95cfbdbdbff3d0\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosab\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\mosab\\.android\\build-cache\\e2345df30a10f71a010df40c327826c6ee7523a0\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosab\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\mosab\\.android\\build-cache\\e2345df30a10f71a010df40c327826c6ee7523a0\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mosab Tohmaz\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Mosab Tohmaz\\.android\\build-cache\\ad7577a43102a1f1c9feca9dfa95cfbdbdbff3d0\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mosab Tohmaz\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Mosab Tohmaz\\.android\\build-cache\\ad7577a43102a1f1c9feca9dfa95cfbdbdbff3d0\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosab\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\mosab\\.android\\build-cache\\e2345df30a10f71a010df40c327826c6ee7523a0\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosab\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\mosab\\.android\\build-cache\\e2345df30a10f71a010df40c327826c6ee7523a0\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mosab Tohmaz\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Mosab Tohmaz\\.android\\build-cache\\ad7577a43102a1f1c9feca9dfa95cfbdbdbff3d0\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\mosab\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\mosab\\.android\\build-cache\\e2345df30a10f71a010df40c327826c6ee7523a0\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mosab Tohmaz\\AndroidStudioProjects\\CSGONades\\app\\build\\intermediates\\res\\merged\\paid\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Mosab Tohmaz\\.android\\build-cache\\ad7577a43102a1f1c9feca9dfa95cfbdbdbff3d0\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]
